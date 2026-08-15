@@ -7,8 +7,8 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 ## Kickoff Meeting: Project Setup & Branch Allocation
 **Date:** August 15, 2026  
 **Time:** 10:00 AM - 11:00 AM UTC  
-**Attendees:** Alex Rivera, Bailey Chen, Charlie Davis, Dani Martinez, Evelyn Vance  
-**Facilitator:** Evelyn Vance  
+**Attendees:** Boniface,Jude, Ntsako, Gladys, Obadiah.  
+**Facilitator:** Obadiah.
 
 ### Agenda
 1. Project Vision & Architecture Alignment.
@@ -21,12 +21,12 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 - **Git Branching Strategy:** To keep work clean and reviewable:
   - Each team member is allocated one specific branch corresponding to their system component (`frontend`, `backend`, `database`, `api`, `documentation`).
   - No direct commits to `main` are allowed. Every feature must go through a pull request review.
-  - Evelyn will host the `team_charter.md` within the `documentation` branch.
+  - Boniface Ndegwa will host the `team_charter.md` within the `documentation` branch.
 - **API Spec:** Dani presented the endpoints in `api.md`. The team agreed to version it as `v1` and use JWT token verification for all endpoints except ingestion and public login.
 
 ### Action Items
-- [ ] **Evelyn Vance:** Commit the team charter in the `documentation` branch and schedule the next sync.
-- [ ] **Dani Martinez:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
-- [ ] **Charlie Davis:** Create TimescaleDB partition scripts on the `database` branch.
-- [ ] **Bailey Chen:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
-- [ ] **Alex Rivera:** Design mockups for the telemetry graph views on the `frontend` branch.
+- [ ] **Boniface Ndegwa:** Commit the team charter in the `documentation` branch and schedule the next sync.
+- [ ] **Ntsako Baloyi:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
+- [ ] **Gladys Mutta:** Create TimescaleDB partition scripts on the `database` branch.
+- [ ] **Obadiah Mutuku: ** Set up the RabbitMQ consumer pipeline on the `backend` branch.
+- [ ] **Jude Oduor:** Design mockups for the telemetry graph views on the `frontend` branch.
