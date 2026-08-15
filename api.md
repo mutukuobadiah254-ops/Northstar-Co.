@@ -109,3 +109,4 @@ Retrieve aggregated telemetry for consumption visualizations.
     ]
   }
   ```
+.
