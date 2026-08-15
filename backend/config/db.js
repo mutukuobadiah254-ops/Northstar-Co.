@@ -14,11 +14,7 @@ export const connectDB = async () => {
       process.env.MONGOMS_STARTUP_TIMEOUT_MS = '60000';
       const { MongoMemoryServer } = await import('mongodb-memory-server');
 
-      mongoServer = await MongoMemoryServer.create({
-        binary: {
-          version: '4.4.24'
-        }
-      });
+      mongoServer = await MongoMemoryServer.create();
       dbUri = mongoServer.getUri();
       console.log(`In-memory MongoDB started successfully at: ${dbUri}`);
     }
