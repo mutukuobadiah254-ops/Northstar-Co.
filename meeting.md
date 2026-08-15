@@ -25,8 +25,8 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 - **API Spec:** Dani presented the endpoints in `api.md`. The team agreed to version it as `v1` and use JWT token verification for all endpoints except ingestion and public login.
 
 ### Action Items
-- [ ] **Evelyn Vance:** Commit the team charter in the `documentation` branch and schedule the next sync.
-- [ ] **Dani Martinez:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
-- [ ] **Charlie Davis:** Create TimescaleDB partition scripts on the `database` branch.
-- [ ] **Bailey Chen:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
-- [ ] **Alex Rivera:** Design mockups for the telemetry graph views on the `frontend` branch.
+- [ ] **Boniface Murimi:** Commit the team charter in the `documentation` branch and schedule the next sync.
+- [ ] **Ntsako Baloyi:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
+- [ ] **Gladys Mutta:** Create TimescaleDB partition scripts on the `database` branch.
+- [ ] **Obadiah Mutuku:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
+- [ ] **Jude Oduor:** Design mockups for the telemetry graph views on the `frontend` branch.
