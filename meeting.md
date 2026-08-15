@@ -31,3 +31,4 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 - [ ] **Obadiah Mutuku:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
 - [ ] **Jude Oduor:** Design mockups for the telemetry graph views on the `frontend` branch.
 .
+.
