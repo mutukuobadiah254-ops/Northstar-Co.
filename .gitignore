@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Development / Environment configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Production Build outputs
+frontend/dist/
+backend/dist/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# MongoDB Memory Server binary download cache
+.mongodb-binaries/
