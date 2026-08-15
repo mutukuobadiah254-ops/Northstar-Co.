@@ -7,15 +7,15 @@ The EcoSync Dev Team is dedicated to building a scalable, secure, and user-frien
 
 ## 2. Team Members & Roles
 
-- **Alex Rivera (Frontend Lead)**
+- **Jude Oduor (Frontend Lead)**
   - Responsible for user interface design, dashboard widgets, browser compatibility, and responsive design.
-- **Bailey Chen (Backend Lead)**
+- **Obadiah Mutuku (Backend Lead)**
   - Responsible for data processing pipeline, microservice optimization, core logic, and queue management.
-- **Charlie Davis (Database Administrator)**
+- **Gladys Mutta(Database Administrator)**
   - Responsible for PostgreSQL/TimescaleDB schema management, partitioning, and query optimization.
-- **Dani Martinez (API Architect)**
+- **Ntsako Baloyi (API Architect)**
   - Responsible for API contracts, auth (JWT), security policies, and service-to-service routing.
-- **Evelyn Vance (Project Lead / Technical Writer)**
+- **Boniface Ndegwa (Project Lead / Technical Writer)**
   - Responsible for requirements definition, release management, documentation, and coordination.
 
 ---
@@ -36,7 +36,7 @@ The EcoSync Dev Team is dedicated to building a scalable, secure, and user-frien
 - **Pull Request Requirements:**
   - Every PR must have at least **one approved peer review** before merge.
   - CI/CD tests must pass successfully.
-- **Releasing Code:** Evelyn Vance orchestrates releases according to [`GO-LIVE-NOTE.md`](file:///C:/Users/Obadiah/.gemini/antigravity/scratch/GO-LIVE-NOTE.md).
+- **Releasing Code:** Obadiah orchestrates releases according to [`GO-LIVE-NOTE.md`](file:///C:/Users/Obadiah/.gemini/antigravity/scratch/GO-LIVE-NOTE.md).
 
 ---
 
