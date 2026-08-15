@@ -54,3 +54,4 @@ graph TD
 ### 2.6 Frontend Client
 - **Technology:** Next.js (React), Tailwind CSS, Chart.js / Recharts.
 - **Responsibilities:** Server-side rendered web app with real-time WebSocket dashboard widgets, analytics reports, and administration modules.
+.
