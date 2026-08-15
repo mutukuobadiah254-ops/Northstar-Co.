@@ -39,3 +39,4 @@ EcoSync is an IoT-enabled smart energy monitoring platform. It aggregates teleme
 
 ### 3.3 Availability
 - **NFR-3.4:** The web dashboard and ingestion services must maintain 99.9% uptime (excluding scheduled maintenance).
+.
