@@ -2,8 +2,8 @@
 
 **Target Version:** v1.0.0-RC1  
 **Target Environment:** Staging / Production  
-**Scheduled Date:** September 1, 2026  
-**Primary Release Coordinator:** Evelyn Vance  
+**Scheduled Date:** September 3, 2026  
+**Primary Release Coordinator:** Obadiah Mutuku  
 
 ---
 
