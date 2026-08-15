@@ -7,8 +7,8 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 ## Kickoff Meeting: Project Setup & Branch Allocation
 **Date:** August 15, 2026  
 **Time:** 10:00 AM - 11:00 AM UTC  
-**Attendees:** Alex Rivera, Bailey Chen, Charlie Davis, Dani Martinez, Evelyn Vance  
-**Facilitator:** Evelyn Vance  
+**Attendees:** Obadiah Mutuku, Boniface Murimi, Gladys Mutta, Ntsako Baloyi, Jude Oduor
+**Facilitator:** Obadiah Mutuku
 
 ### Agenda
 1. Project Vision & Architecture Alignment.
