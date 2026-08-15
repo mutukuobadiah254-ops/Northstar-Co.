@@ -48,3 +48,4 @@ A task or ticket is considered **Done** only when:
 3. **Documentation:** API specs in [`api.md`](file:///C:/Users/Obadiah/.gemini/antigravity/scratch/api.md) and system architecture in [`architecture.md`](file:///C:/Users/Obadiah/.gemini/antigravity/scratch/architecture.md) are updated.
 4. **Peer Review:** PR has been reviewed, approved, and merged.
 5. **Validation:** Deployment verifies the changes on Staging environment.
+.
