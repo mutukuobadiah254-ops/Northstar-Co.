@@ -11,11 +11,11 @@ To facilitate parallel development and ensure high code quality, our team uses a
 | Branch | Primary Owner | Role | Focus Area |
 | :--- | :--- | :--- | :--- |
 | `main` | *Shared* | Release Branch | Stable production-ready code. |
-| `frontend` | Alex Rivera | Frontend Engineer | React/Next.js dashboard, visualizations, and UI/UX components. |
-| `backend` | Bailey Chen | Backend Engineer | Microservices, data processing pipeline, and business logic. |
-| `database` | Charlie Davis | Database Engineer | PostgreSQL schema design, optimization, and TimescaleDB integration. |
-| `api` | Dani Martinez | API Architect | RESTful & WebSocket API definitions, Gateway routing, and Auth. |
-| `documentation` | Evelyn Vance | Product Manager / Technical Writer | Project documentation, user guides, team charter, and specifications. |
+| `frontend` | Jude Oduor | Frontend Engineer | React/Next.js dashboard, visualizations, and UI/UX components. |
+| `backend` | Obadiah Mutuku| Backend Engineer | Microservices, data processing pipeline, and business logic. |
+| `database` | Mutta Glady | Database Engineer | PostgreSQL schema design, optimization, and TimescaleDB integration. |
+| `api` | Ntsako Baloyi | API Architect | RESTful & WebSocket API definitions, Gateway routing, and Auth. |
+| `documentation` | Boniface Murimi | Product Manager / Technical Writer | Project documentation, user guides, team charter, and specifications. |
 
 ---
 
