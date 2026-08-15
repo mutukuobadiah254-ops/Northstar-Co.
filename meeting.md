@@ -7,8 +7,8 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 ## Kickoff Meeting: Project Setup & Branch Allocation
 **Date:** August 15, 2026  
 **Time:** 10:00 AM - 11:00 AM UTC  
-**Attendees:** Alex Rivera, Bailey Chen, Charlie Davis, Dani Martinez, Evelyn Vance  
-**Facilitator:** Evelyn Vance  
+**Attendees:** Obadiah Mutuku, Jude Oduor, Boniface Murimi, Mutta Gladys, Ntsako Baloyi 
+**Facilitator:** Obadiaah Mutuku 
 
 ### Agenda
 1. Project Vision & Architecture Alignment.
@@ -25,8 +25,8 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 - **API Spec:** Dani presented the endpoints in `api.md`. The team agreed to version it as `v1` and use JWT token verification for all endpoints except ingestion and public login.
 
 ### Action Items
-- [ ] **Evelyn Vance:** Commit the team charter in the `documentation` branch and schedule the next sync.
-- [ ] **Dani Martinez:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
-- [ ] **Charlie Davis:** Create TimescaleDB partition scripts on the `database` branch.
-- [ ] **Bailey Chen:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
-- [ ] **Alex Rivera:** Design mockups for the telemetry graph views on the `frontend` branch.
+- [ ] **Boniface Mutuku:** Commit the team charter in the `documentation` branch and schedule the next sync.
+- [ ] **Nstako Baloyi:** Stub out the REST interface controllers in the `api` branch based on `api.md`.
+- [ ] **Mutta Gladys:** Create TimescaleDB partition scripts on the `database` branch.
+- [ ] **Obadiah Mutuku:** Setup the RabbitMQ consumer pipeline on the `backend` branch.
+- [ ] **Jude Oduor:** Design mockups for the telemetry graph views on the `frontend` branch.
