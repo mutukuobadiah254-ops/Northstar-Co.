@@ -6,7 +6,7 @@ This document describes the REST API endpoints and payload structures for EcoSyn
 
 ## 1. Authentication
 
-### 1.1 Authenticate User
+### 1.1 Authenticate User.
 Authenticate a team member or customer to retrieve a JWT access token.
 
 - **URL:** `/api/v1/auth/login`
