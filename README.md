@@ -53,3 +53,4 @@ To facilitate parallel development and ensure high code quality, our team uses a
    - `fix(backend): resolve memory leak in telemetry ingestion`
    - `docs(api): update auth endpoint specs`
 3. **Pull Requests (PRs):** Target your PR to the `main` branch. A minimum of one peer review is required before merging.
+.
