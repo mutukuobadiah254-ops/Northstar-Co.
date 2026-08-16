@@ -8,7 +8,7 @@ This file acts as a continuous journal for our weekly syncs and design reviews.
 **Date:** August 15, 2026  
 **Time:** 10:00 AM - 11:00 AM UTC  
 **Attendees:** Mutta Gladys, Jude Oduor, Ntsako Baloyi, Obadiah Mutuku
-**Facilitator:** Evelyn Vance  
+**Facilitator:** Boniface Mutuku  
 
 ### Agenda
 1. Project Vision & Architecture Alignment.
