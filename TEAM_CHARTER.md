@@ -10,11 +10,11 @@ This project is structured for a 5-person remote engineering sprint. Each team m
 
 | Team Member | Role | Branch Name | Ownership Scope |
 | :--- | :--- | :--- | :--- |
-| **Developer 1** | Backend Specialist | `backend` | Server setup (`server.js`), CORS configurations, ports, health checks, Express structure, and error middleware. |
-| **Developer 2** | Database Architect | `database` | Mongoose models (`Order.js`, `Product.js`), seeder mock data logic (`seeder.js`), and zero-config connection manager (`db.js`). |
-| **Developer 3** | Frontend Lead | `frontend` | Main shell coordinate (`App.jsx`), typography & styling system (`index.css`), Hero component tabs, and custom layout frameworks. |
-| **Developer 4** | Integrations & API Engineer | `api` | Route endpoints (`orderRoutes.js`, `inventoryRoutes.js`), backend inputs regex validation, and React components data fetchers (`ReturnsRefunds.jsx`, `StockAvailability.jsx`, `OrderStatus.jsx`). |
-| **Developer 5** | Technical Writer & QA | `documentation` | Installation guide (`README.md`), project walkthrough validation logs (`walkthrough.md`), verification plans, and team charter configuration. |
+| **Mutta Gladys** | Backend Specialist | `backend` | Server setup (`server.js`), CORS configurations, ports, health checks, Express structure, and error middleware. |
+| **Obadiah Mutuku** | Database Architect | `database` | Mongoose models (`Order.js`, `Product.js`), seeder mock data logic (`seeder.js`), and zero-config connection manager (`db.js`). |
+| **Jude Oduor** | Frontend Lead | `frontend` | Main shell coordinate (`App.jsx`), typography & styling system (`index.css`), Hero component tabs, and custom layout frameworks. |
+| **Ntsako Baloyi** | Integrations & API Engineer | `api` | Route endpoints (`orderRoutes.js`, `inventoryRoutes.js`), backend inputs regex validation, and React components data fetchers (`ReturnsRefunds.jsx`, `StockAvailability.jsx`, `OrderStatus.jsx`). |
+| **Boniface Murimi** | Technical Writer & QA | `documentation` | Installation guide (`README.md`), project walkthrough validation logs (`walkthrough.md`), verification plans, and team charter configuration. |
 
 ---
 
@@ -43,3 +43,4 @@ This project is structured for a 5-person remote engineering sprint. Each team m
 - **Communication:** Conduct asynchronous updates via daily Slack status notes.
 - **Code Quality:** Maintain documentation integrity by preserving all code symbol comments, utilizing clear custom HSL CSS classes instead of ad-hoc styles, and maintaining consistent ES Module syntax.
 - **Zero-Config Integrity:** Ensure that the local developer fallback to `mongodb-memory-server` remains intact so any new developer can immediately run the application upon cloning the repo.
+.
